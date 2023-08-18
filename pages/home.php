@@ -161,9 +161,8 @@
                   </div>
                 </div>
                 <div class="service__content">
-                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Strategy Consulting</a> </h5>
-                  <p class="mb-0">A social assistant that's flexible can accommodate your schedule and needs, making
-                    life easier.</p>
+                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Gerenciador para Marmorarias.</a> </h5>
+                  <p class="mb-0"></p>
                 </div>
               </div>
             </div>
@@ -177,9 +176,8 @@
                   </div>
                 </div>
                 <div class="service__content">
-                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html"> Financial Advisory</a> </h5>
-                  <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.
-                  </p>
+                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Website pessoal/profissional</a> </h5>
+                  <p class="mb-0"></p>
                 </div>
               </div>
             </div>
@@ -193,9 +191,8 @@
                   </div>
                 </div>
                 <div class="service__content">
-                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Management</a> </h5>
-                  <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst processes and
-                    improving</p>
+                  <h5 class="mb-15"> <a class="stretched-link" href="service-details.html">Projetos Blockchain</a> </h5>
+                  <p class="mb-0"></p>
                 </div>
               </div>
             </div>
@@ -208,19 +205,18 @@
   </section>
   <!-- ===============>> Service section start here <<================= -->
   <!-- ===============>> Testimonial section start here <<================= -->
-  <section class="testimonial padding-top padding-bottom-style2 bg-color">
+  <section class="testimonial padding-top padding-bottom-style2">
     <div class="container">
       <div class="section-header d-md-flex align-items-center justify-content-between">
         <div class="section-header__content">
-          <h2 class="mb-15">connect with <span>our Clients </span></h2>
-          <p class="mb-0">We love connecting with our clients to hear about their experiences and how we can improve.
+          <h2 class="mb-15"><span>Veja o que nossos clientes falam sobre nós</span></h2>
+          <p class="mb-0">Os depoimentos de nossos clientes, mostra a satisfação e pontualidade, veja alguns deles abaixo.
           </p>
         </div>
         <div class="section-header__action">
           <div class="swiper-nav">
             <button class="swiper-nav__btn testimonial__slider-prev"><i class="fa-solid fa-angle-left"></i></button>
-            <button class="swiper-nav__btn testimonial__slider-next active"><i
-                class="fa-solid fa-angle-right"></i></button>
+            <button class="swiper-nav__btn testimonial__slider-next"><i class="fa-solid fa-angle-right"></i></button>
           </div>
         </div>
       </div>
@@ -232,9 +228,7 @@
                 <div class="testimonial__item-inner">
                   <div class="testimonial__item-content">
                     <p class="mb-0">
-                      The above testimonial is about Martha Chumo, who taught herself to code in one summer. This
-                      testimonial example works because it allows prospective customers to see themselves in
-                      Codeacademy’s current customer base.
+                     Serviço excelente
                     </p>
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
@@ -259,9 +253,7 @@
                 <div class="testimonial__item-inner">
                   <div class="testimonial__item-content">
                     <p class="mb-0">
-                      In the above testimonial, a customer named Jeanine shares her experience with Briogeo’s products.
-                      While the post is scattered with too many product mentions, it takes full advantage of its real
-                      estate by allowing the writer to tell
+                     Muito satisfeito com o produto que alugamos.
                     </p>
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
@@ -286,9 +278,7 @@
                 <div class="testimonial__item-inner">
                   <div class="testimonial__item-content">
                     <p class="mb-0">
-                      The above testimonial is about Martha Chumo, who taught herself to code in one summer. This
-                      testimonial example works because it allows prospective customers to see themselves in
-                      Codeacademy’s current customer base.
+                      O atendimento e suporte é perfeito, pontual e muito satisfatório.
                     </p>
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
@@ -314,151 +304,6 @@
     </div>
   </section>
   <!-- ===============>> Testimonial section start here <<================= -->
-
-
-
-
-  <!-- ===============>> FAQ section start here <<================= -->
-  <section class="faq padding-top padding-bottom of-hidden">
-    <div class="section-header section-header--max65">
-      <h2 class="mb-15 mt-minus-5"><span>Frequently</span> Asked questions</h2>
-      <p>Hey there! Got questions? We've got answers. Check out our FAQ page for all the deets. Still not satisfied? Hit
-        us up.</p>
-    </div>
-    <div class="container">
-      <div class="faq__wrapper">
-        <div class="row g-5 align-items-center justify-content-between">
-          <div class="col-lg-6">
-            <div class="accordion accordion--style1" id="faqAccordion1" data-aos="fade-right" data-aos-duration="1000">
-              <div class="row">
-                <div class="col-12">
-                  <div class="accordion__item ">
-                    <div class="accordion__header" id="faq1">
-                      <button class="accordion__button" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody1" aria-expanded="false" aria-controls="faqBody1">
-                        <span class="accordion__button-content">What does this tool do?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody1" class="accordion-collapse collapse show" aria-labelledby="faq1"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15">
-                          Online trading’s primary advantages are that it allows you to manage your trades at your convenience.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="accordion__item ">
-                    <div class="accordion__header" id="faq2">
-                      <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody2" aria-expanded="true" aria-controls="faqBody2">
-                        <span class="accordion__button-content">What are the disadvantages of online trading?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody2" class="accordion-collapse collapse" aria-labelledby="faq2"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15">
-                          You don’t need to worry, the interface is user-friendly. Anyone can use
-                          it smoothly. Our user manual will help you to solve your problem.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="accordion__item ">
-                    <div class="accordion__header" id="faq3">
-                      <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody3" aria-expanded="false" aria-controls="faqBody3">
-                        <span class="accordion__button-content">Is online trading safe?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15"> Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="accordion__item ">
-                    <div class="accordion__header" id="faq4">
-                      <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody4" aria-expanded="false" aria-controls="faqBody4">
-                        <span class="accordion__button-content">What is online trading, and how does it work?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15"> Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="accordion__item ">
-                    <div class="accordion__header" id="faq5">
-                      <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody5" aria-expanded="false" aria-controls="faqBody5">
-                        <span class="accordion__button-content">Which app is best for online trading?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody5" class="accordion-collapse collapse" aria-labelledby="faq5"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15"> Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="accordion__item border-0">
-                    <div class="accordion__header" id="faq6">
-                      <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#faqBody6" aria-expanded="false" aria-controls="faqBody6">
-                        <span class="accordion__button-content"> How to create a trading account?</span>
-                        <span class="accordion__button-plusicon"></span>
-                      </button>
-                    </div>
-                    <div id="faqBody6" class="accordion-collapse collapse" aria-labelledby="faq6"
-                      data-bs-parent="#faqAccordion1">
-                      <div class="accordion__body">
-                        <p class="mb-15"> Online trading’s primary advantages are that it allows you to manage your trades at your convenience.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="faq__thumb faq__thumb--style1" data-aos="fade-left" data-aos-duration="1000">
-              <img class="dark" src="assets/images/others/1.png" alt="faq-thumb">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="faq__shape faq__shape--style1">
-      <span class="faq__shape-item faq__shape-item--1"><img src="assets/images/others/2.png" alt="shpae-icon"></span>
-    </div>
-  </section>
-  <!-- ===============>> FAQ section start here <<================= -->
-
-
-
-
-
   <!-- ===============>> cta section start here <<================= -->
   <section class="cta padding-top padding-bottom  bg-color">
     <div class="container">
@@ -469,22 +314,17 @@
               <img src="assets/images/cta/3.png" alt="cta-thumb">
             </div>
             <div class="cta__subscribe">
-              <h2 > <span>Subscribe</span> our news</h2>
-              <p>Hey! Are you tired of missing out on our updates? Subscribe to our news now and stay in the loop!</p>
+              <h2 > <span>Fique por dentro de</span> nossas novidades.</h2>
+              <p>Hey! Você não pdoe ficar de fora de nossas novidades, inscreva-se gratuitamente em nossas newsletter para receber ataulizações sobre nossos serviços e produtos.</p>
               <form class="cta-form cta-form--style2 form-subscribe" action="#">
                 <div class="cta-form__inner d-sm-flex align-items-center">
                   <input type="email" class="form-control form-control--style2 mb-3 mb-sm-0"
                     placeholder="Email Address">
-                  <button class="trk-btn  trk-btn--large trk-btn--secondary2" type="submit">Submit</button>
+                  <button class="trk-btn  trk-btn--large trk-btn--primary3" type="submit">Assinas newsletter</button>
                 </div>
               </form>
             </div>
           </div>
-        </div>
-        <div class="cta__shape">
-          <span class="cta__shape-item cta__shape-item--1"><img src="assets/images/cta/2.png" alt="shape icon"></span>
-          <span class="cta__shape-item cta__shape-item--2"><img src="assets/images/cta/4.png" alt="shape icon"></span>
-          <span class="cta__shape-item cta__shape-item--3"><img src="assets/images/cta/5.png" alt="shape icon"></span>
         </div>
       </div>
     </div>

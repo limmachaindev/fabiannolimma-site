@@ -509,8 +509,8 @@ ol {
   --bg-grad-color-trans-4: rgba(229, 237, 248, 0.00);
   --bg-color-2:#F5F8FC;
   --bg-color-3:#FFFFFF;
-  --bg-color-4:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #52eaf0 99.59%);
-  --bg-color-5:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #52eaf0 99.59%);
+  --bg-color-4:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #f0c652 99.59%);
+  --bg-color-5:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #f0d852 99.59%);
   --bg-color-6:#F5F7FC;
   --bg-color-7:#F1F4FB;
   --bg-color-8:#124D6D;
@@ -542,7 +542,7 @@ ol {
   --account-bg-color2: #FFF;
   --arrow-color1: #B5CAF2;
   --arrow-icon-color: #c0a616;
-  --header-border-color: #f8d134;
+  --header-border-color: #dad6ca;
   --banner2-bg-color: #e2cd56;
   --about-img-bg-shadow: #85F2D382;
   --cta-img-bg-shadow: #45554b;
@@ -592,7 +592,7 @@ ol {
   --bg-color-2:#2D2C2C;
   --bg-color-3:533404;
   --bg-color-4:linear-gradient(150.39deg, rgba(237, 242, 248, 0.0264) 15.02%, rgba(237, 242, 248, 0.12) 99.59%);
-  --bg-color-5:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #EDF2F8 99.59%);
+  --bg-color-5:linear-gradient(150.39deg, rgba(95, 40, 14, 0.308) 15.02%, #aa9b45 99.59%);
   --bg-color-6:#2D2C2C;
   --bg-color-7:rgba(255, 255, 255, 0.0392156863);
   --bg-color-8:#124D6D;
@@ -624,7 +624,7 @@ ol {
   --account-bg-color2: 533404;
   --arrow-color1: #2B4B43;
   --arrow-icon-color: #fff;
-  --header-border-color: rgba(255, 255, 255, 0.16);
+  --header-border-color: #ebdcc229;
   --banner2-bg-color: #bd8229;
   --about-img-bg-shadow: #85F2D382;
   --cta-img-bg-shadow: #45554b;
@@ -3274,8 +3274,8 @@ h6 a {
   position: fixed;
   top: 0;
   left: 0;
-  box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.3);
-  background-color: #f8e27e;
+  box-shadow: 0px 5px 10px -5px rgba(29, 15, 2, 0.3);
+  background-color: #1d1802;
   z-index: 999;
 }
 
@@ -3320,11 +3320,11 @@ h6 a {
 }
 .menu > li > a {
   font-size: 1rem;
-  padding: 15px 22px;
+  padding: 15px 15px;
   text-transform: capitalize;
   font-family: "Open Sans", sans-serif;
   color: var(--title-color);
-  font-weight: 500;
+  font-weight: 400;
 }
 .menu > li > a span {
   font-size: 0.75rem;
@@ -3336,7 +3336,7 @@ h6 a {
   background-color: var(--brand-color);
 }
 .menu > li > a span.style2 {
-  background-color: #366CD5;
+  background-color: #d5b836;
 }
 .menu > li > a i {
   margin-right: 5px;
@@ -3482,7 +3482,7 @@ h6 a {
     background-color: var(--brand-color);
   }
   .menu li a span.style2 {
-    background-color: #366CD5;
+    background-color: #d5b836;
   }
   .menu li .submenu {
     padding-left: 20px;
@@ -4336,11 +4336,11 @@ h6 a {
   content: "";
   height: 870px;
   width: 370px;
-  border: 45px solid rgba(255, 255, 255, 0.9);
+  border: 45px solid rgba(122, 84, 1, 0.9);
   border-bottom-left-radius: 999px;
   border-bottom-right-radius: 999px;
   opacity: 0.0799999982;
-  background: linear-gradient(152deg, rgba(229, 237, 248, 0.47) 0%, #EDF2F8 100%);
+  background: linear-gradient(152deg, rgba(229, 237, 248, 0.47) 0%, #3d3806 100%);
 }
 @media (min-width: 768px) {
   .banner--style2 .banner__wrapper--style2::after {
@@ -4461,7 +4461,7 @@ h6 a {
   border-radius: 8px;
   background-color: var(--wh-color);
   border: 2px solid rgba(31, 35, 61, 0);
-  box-shadow: 0px 16px 64px 0px rgba(0, 208, 148, 0.12);
+  box-shadow: 0px 16px 64px 0px rgba(238, 199, 92, 0.12);
 }
 @media (min-width: 768px) {
   .banner--style3 .banner__counter-item {
@@ -6858,12 +6858,12 @@ textarea:focus-within {
   -ms-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  background: linear-gradient(152deg, var(--bg-color-trans) 0%, var(--bg-color) 100%);
+  background: linear-gradient(152deg, var(#6d4d1e) 0%, var(#2c1d07) 100%);
   border: 2px solid var(--service-item-border-color);
   border-radius: 16px;
 }
 @media (min-width: 768px) {
-  .service__item-inner {
+  .-inner {
     padding-block: 52px;
     padding-inline: 32px;
   }
@@ -7870,7 +7870,7 @@ textarea:focus-within {
 }
 
 .testimonial__item-content p {
-  border-bottom: 1px solid #E6EDFB;
+  border-bottom: 1px solid #af7200;
 }
 @media (min-width: 1200px) {
   .testimonial__item-content p {
@@ -9479,7 +9479,7 @@ html[data-bs-theme=dark] .banner--style3 .banner__bg img {
 html[data-bs-theme=dark] .banner--style3 .banner__counter-item {
   border: none;
   background: linear-gradient(152deg, rgba(237, 242, 248, 0.03) 0%, rgba(237, 242, 248, 0.12) 100%);
-  box-shadow: 0px 16px 64px 0px rgba(0, 208, 148, 0.08);
+  box-shadow: 0px 16px 64px 0px rgba(194, 208, 0, 0.08);
 }
 html[data-bs-theme=dark] .trk-btn--outline2 {
   background-color: #e68f0e;
