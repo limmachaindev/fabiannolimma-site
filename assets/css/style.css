@@ -471,12 +471,12 @@ ol {
 
 /* @@@@@@@@@@@@@  aditional Property CSS Writing Now  @@@@@@@@@@@@@@ */
 [data-bs-theme=light] {
-  --brand-color:#533404;
-  --secondary-color:#0A4FD5;
+  --brand-color:#c0a616;
+  --secondary-color:#c0a616;
   --tertiary-color:#E0FAF2;
   --tertiary-color2:#F5F7FC;
   --tertiary-color3:#F5F7FC;
-  --body-color:#FFFFFF;
+  --body-color:#221502;
   --header-bg-color: #a76809;
   --border-color:#E6EDFB;
   --border-color-2: #E6EDFB;
@@ -491,10 +491,10 @@ ol {
   --social-border-color-2:#ECEFF2;
   --social-border-color-3:#ECEFF2;
   --form-border:#DCDFE8;
-  --title-color:#533404;
-  --title-color-style2:#533404;
-  --text-color:#6B777F;
-  --text-color-light:#6B6F7F;
+  --title-color:#c0a616;
+  --title-color-style2:#c0a616;
+  --text-color:#faca2e;
+  --text-color-light:#faf8f8;
   --text-color-2: rgba(255, 255, 255, 0.6);
   --text-color-3: rgba(255, 255, 255, 0.70);
   --bg-color: #EDF2F8;
@@ -505,7 +505,7 @@ ol {
   --bg-grad-color-trans-2: rgba(255, 255, 255, 0.22);
   --bg-grad-color-3: #E9EFF7;
   --bg-grad-color-trans-3: rgba(240, 244, 250, 0.16);
-  --bg-grad-color-4: rgba(0, 208, 148, 0.32);
+  --bg-grad-color-4: rgba(227, 245, 70, 0.32);
   --bg-grad-color-trans-4: rgba(229, 237, 248, 0.00);
   --bg-color-2:#F5F8FC;
   --bg-color-3:#FFFFFF;
@@ -517,7 +517,7 @@ ol {
   --bg-color-9:white;
   --bg-white:#ffffff;
   --bg-team:#d6e5ff;
-  --form-focus-color:#b0d50a;
+  --form-focus-color:#366CD5;
   --wh-color:#fff;
   --black-color:#000;
   --floating-content-border-color: rgba(0, 0, 0, 0.02);
@@ -541,9 +541,9 @@ ol {
   --account-bg-color: #F5F7FC;
   --account-bg-color2: #FFF;
   --arrow-color1: #B5CAF2;
-  --arrow-icon-color: #b0d50a;
-  --header-border-color: #EBE9E1;
-  --banner2-bg-color: #a76809;
+  --arrow-icon-color: #c0a616;
+  --header-border-color: #f8d134;
+  --banner2-bg-color: #e2cd56;
   --about-img-bg-shadow: #85F2D382;
   --cta-img-bg-shadow: #45554b;
   --error-color:#F04438;
@@ -553,12 +553,12 @@ ol {
 }
 
 [data-bs-theme=dark] {
-  --brand-color:#ccba1d;
-  --secondary-color:#ccba1d;
+  --brand-color:#8f8423;
+  --secondary-color:#f3f714;
   --tertiary-color:#a76809;
   --tertiary-color2:#a76809;
-  --tertiary-color3:a76809;
-  --body-color:533404;
+  --tertiary-color3:#a76809;
+  --body-color:#4e3817;
   --border-color:rgba(230, 237, 251, 0.1215686275);
   --border-color-2: rgba(255, 255, 255, 0.08);
   --border-color-3: #E6EDFB;
@@ -616,16 +616,16 @@ ol {
   --bg-shape-color-2: rgba(213, 229, 249, 0.16);
   --bg-shape-color-trans-2: rgba(255, 255, 255, 0.04);
   --footer-bg-color: 533404;
-  --faq-img-bg-shadow: #16d4668f;
+  --faq-img-bg-shadow: #d4c7168f;
   --pagination-bg-color: 533404;
   --section-bg-color: rgba(237, 242, 248, 0.02);
-  --sec-bg-color-2: #081c17;
+  --sec-bg-color-2: #1c1a08;
   --account-bg-color: 533404;
   --account-bg-color2: 533404;
   --arrow-color1: #2B4B43;
   --arrow-icon-color: #fff;
   --header-border-color: rgba(255, 255, 255, 0.16);
-  --banner2-bg-color: #a76809;
+  --banner2-bg-color: #bd8229;
   --about-img-bg-shadow: #85F2D382;
   --cta-img-bg-shadow: #45554b;
   --error-color:#F04438;
@@ -1711,7 +1711,7 @@ ol {
   -ms-transform: translateY(-5px);
   -o-transform: translateY(-5px);
   transform: translateY(-5px);
-  color: #533404;
+  color: #a76a10;
 }
 
 .cta-form {
@@ -1759,7 +1759,7 @@ ol {
   color: #533404;
 }
 .cta-form .form-control--style2::placeholder {
-  color: #6B777F;
+  color: #7f7f6b;
 }
 @media (min-width: 576px) {
   .cta-form .form-control--style2 {
@@ -1895,7 +1895,7 @@ ol {
 }
 
 .progress-bar {
-  background-color: #ffee53 !important;
+  background-color: #b6a50f !important;
 }
 
 .paginations {
@@ -3275,6 +3275,7 @@ h6 a {
   top: 0;
   left: 0;
   box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.3);
+  background-color: #f8e27e;
   z-index: 999;
 }
 
@@ -5542,8 +5543,8 @@ textarea:focus-within {
   color: var(--wh-color);
 }
 .trk-btn--secondary2 {
-  background-color: #0A4FD5;
-  border: 1px solid #0A4FD5;
+  background-color: #c0a616;
+  border: 1px solid #c0a616;
   color: var(--bg-white);
 }
 .trk-btn--outline {
@@ -5734,8 +5735,8 @@ textarea:focus-within {
   stroke: #533404;
 }
 .trk-btn.active.trk-btn--outline22, .trk-btn:hover.trk-btn--outline22 {
-  background-color: #0A4FD5;
-  border-color: #0A4FD5;
+  background-color: #c0a616;
+  border-color: #c0a616;
   color: var(--bg-white);
 }
 .trk-btn.active.trk-btn--outline22 span.style1 svg rect, .trk-btn:hover.trk-btn--outline22 span.style1 svg rect {
@@ -8031,10 +8032,10 @@ textarea:focus-within {
   flex: 1;
 }
 .cta__subscribe h2 {
-  color: #533404;
+  color: #9b6008;
 }
 .cta__subscribe h2 span {
-  color: #0A4FD5;
+  color: #eede02;
 }
 @media (max-width: 767px) {
   .cta__subscribe h2 {
@@ -8052,7 +8053,7 @@ textarea:focus-within {
   }
 }
 .cta__subscribe p {
-  color: #533404;
+  color: #2c1d07;
 }
 @media (min-width: 768px) {
   .cta__subscribe p {
@@ -9481,7 +9482,7 @@ html[data-bs-theme=dark] .banner--style3 .banner__counter-item {
   box-shadow: 0px 16px 64px 0px rgba(0, 208, 148, 0.08);
 }
 html[data-bs-theme=dark] .trk-btn--outline2 {
-  background-color: #a76809;
+  background-color: #e68f0e;
   border-color: #a76809;
   color: #fff;
 }
@@ -9597,7 +9598,7 @@ html[data-bs-theme=dark] .account__divider--style1::before {
 }
 @media (min-width: 768px) {
   html[data-bs-theme=dark] .contact__form::before {
-    background: linear-gradient(188.07deg, rgba(157, 157, 157, 0) 31.91%, rgba(151, 153, 155, 0.4588235294) 98.96%);
+    background: linear-gradient(188.07deg, rgba(122, 97, 16, 0) 31.91%, rgba(151, 153, 155, 0.4588235294) 98.96%);
   }
 }
 html[data-bs-theme=dark] .nav--feature .nav-link {
@@ -9614,7 +9615,7 @@ html[data-bs-theme=dark] .social__link--style1.active svg, html[data-bs-theme=da
   color: var(--brand-color);
 }
 html[data-bs-theme=dark] .partner--gradient::after {
-  background: #533404;
+  background: #b97206;
 }
 
 /*# sourceMappingURL=style.css.map */
