@@ -14,6 +14,16 @@ case "home";
 include('pages/home.php');
 break;
 /////////////
+/////////////
+case "blog";
+include('pages/blog.php');
+break;
+/////////////
+/////////////
+case "lerblog";
+include('pages/blog-ler.php');
+break;
+/////////////
 
 }
 /////////////////////////////////

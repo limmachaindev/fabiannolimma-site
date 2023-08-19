@@ -50,7 +50,7 @@
           <div class="menu-area">
             <ul class="menu menu--style1">
                   <li><a href="./">Pagina Inicial</a></li>
-                  <li><a href="./">Blog</a></li>
+                  <li><a href="?pag=blog">Blog</a></li>
               <li>
                 <a href="#0">Produtos</a>
                 <ul class="submenu">
@@ -58,7 +58,7 @@
                 </ul>
               </li>
               <li>
-                <a href="#">Contato</a>
+                <a href="?pag=contato">Contato</a>
               </li>
             </ul>
 
