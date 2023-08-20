@@ -22,10 +22,13 @@
                     <a href="#" class="social__link social__link--style1"><i class="fab fa-facebook-f"></i></a>
                   </li>
                   <li class="social__item">
-                    <a href="#" class="social__link social__link--style1"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="#" class="social__link social__link--style1"><i class="fab fa-twitter"></i></a>
                   </li>
                   <li class="social__item">
                     <a href="#" class="social__link social__link--style1"><i class="fab fa-instagram"></i></a>
+                  </li>
+                  <li class="social__item">
+                    <a href="#" class="social__link social__link--style1"><i class="fab fa-github"></i></a>
                   </li>
                 </ul>
               </div>
