@@ -1,20 +1,18 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="pt-BR" data-bs-theme="light">
 <head>
-  <title>Home </title>
+  <title> <?= $nomeSite; ?> | <?= $pageDesc; ?> </title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Sites meta Data -->
-  <meta name="application-name"
-    content="Bitrader - Professional Multipurpose HTML Template for Your Crypto, Forex, and Stocks Trading Business">
-  <meta name="author" content="thetork">
-  <meta name="keywords" content="Bitrader, Crypto, Forex, and Stocks Trading Business">
-  <meta name="description"
-    content="Experience the power of Bitrader, the ultimate HTML template designed to transform your trading business. With its sleek design and advanced features, Bitrader empowers you to showcase your expertise, engage clients, and dominate the markets. Elevate your online presence and unlock new trading possibilities with Bitrader.">
+  <meta name="application-name" content="<?= $nomeSite; ?> - <?= $descSite; ?>">
+  <meta name="author" content="<?= $nomeSite; ?>">
+  <meta name="keywords" content="<?= $tagsSite; ?>">
+  <meta name="description" content="<?= $descSite; ?>">
 
-  <!-- OG meta data -->
+  <!-- OG meta data --
   <meta property="og:title"
     content="Bitrader - Professional Multipurpose HTML Template for Your Crypto, Forex, and Stocks Trading Business">
   <meta property="og:site_name" content=Bitrader>
@@ -23,6 +21,7 @@
     content="Welcome to Bitrader, the game-changing HTML template meticulously crafted to revolutionize your trading business. With its sleek and modern design, Bitrader provides a cutting-edge platform to showcase your expertise, attract clients, and stay ahead in the competitive trading markets.">
   <meta property="og:type" content="website">
   <meta property="og:image" content="assets/images/og.png">
+  --->
   <link rel="shortcut icon" href="assets/images/icon.png" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
@@ -47,22 +46,9 @@
               <img class="dark" src="assets/images/logo/logo.png" style="height: 60px;" alt="logo">
             </a>
           </div>
-          <div class="menu-area">
-            <ul class="menu menu--style1">
-                  <li><a href="./">Pagina Inicial</a></li>
-                  <li><a href="?pag=blog">Blog</a></li>
-              <li>
-                <a href="#0">Produtos</a>
-                <ul class="submenu">
-                  <li><a href="#">Gerenciador para Marmoraria</a></li>
-                </ul>
-              </li>
-              <li>
-                <a href="?pag=contato">Contato</a>
-              </li>
-            </ul>
-
-          </div>
+          <!---- incluindo menu ---->
+         <?php require_once('menu.php'); ?>
+         <!---- incluindo menu ---->
           <div class="header-action">
             <div class="menu-area">
               <div class="header-btn">

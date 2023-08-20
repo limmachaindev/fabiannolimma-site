@@ -2,7 +2,7 @@
  <section class="banner banner--style3">
     <div class="banner__bg">
       <div class="banner__bg-element">
-        <img src="assets/images/about/home3/1.png" alt="section-bg-element" class="dark d-none d-lg-block">
+        <img src="assets/images/about/home3/2.png" alt="section-bg-element" class="dark d-none d-lg-block">
         <span class="bg-color d-lg-none"></span>
       </div>
     </div>

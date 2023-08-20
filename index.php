@@ -1,8 +1,11 @@
 <?php
-
+session_start();
+session_create_id();
+include('setting/configuracoes.php');
+$page = $_GET['pag'];
+include('setting/head.php');
 include('paths/header.php');
 /////////////////////////////////
-$page = $_GET['pag'];
 switch($page){
 /////////////
 default:

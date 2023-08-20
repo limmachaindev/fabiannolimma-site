@@ -31,11 +31,8 @@
                 </div>
                 <div class="footer__links-content">
                   <ul class="footer__linklist">
-                    <li class="footer__linklist-item"> <a href="#">Terms & Condições</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">Politica de privacidade</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">FAQs</a></li>
+                    <li class="footer__linklist-item"> <a href="#">Terms & Condições</a></li>
+                    <li class="footer__linklist-item"> <a href="#">Politica de privacidade</a></li>
                     <li class="footer__linklist-item"> <a href="#">Central de ajuda</a> </li>
                   </ul>
                 </div>
