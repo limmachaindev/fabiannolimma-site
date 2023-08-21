@@ -22,7 +22,7 @@
   <meta property="og:type" content="website">
   <meta property="og:image" content="assets/images/og.png">
   --->
-  <link rel="shortcut icon" href="assets/images/icon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
   <link rel="stylesheet" href="assets/css/all.min.css">
