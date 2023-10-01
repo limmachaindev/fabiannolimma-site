@@ -5,7 +5,7 @@
               <li>
                 <a href="?pag=produtos">Produtos </a>
                 <ul class="submenu">
-                  <li><a href="?pag=produtos&produto=gerenciador">Gerenciador para Marmoraria</a></li>
+                  <li><a href="?pag=produtos&produto=gerenciador">Gerenciadores</a></li>
                 </ul>
               </li>
               <li>

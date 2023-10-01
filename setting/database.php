@@ -1,7 +1,7 @@
 <?php
 // adicione dados de conexão para conectar ao seu banco de dados manual.
-$user ="";
+$user ="root";
 $pass ="";
-$host ="";
-$dbas ="";                               
+$host ="localhost";
+$dbas ="fabiannolimma";                               
 ?>
